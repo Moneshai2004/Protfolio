@@ -32,7 +32,7 @@ body{
 }
 
 body.dark{
-    --bg-color:#ffffff;
+    --bg-color:#000000;
     --first-color:#242526;
     --second-colour:#444444;
     --black-color:#000000;
